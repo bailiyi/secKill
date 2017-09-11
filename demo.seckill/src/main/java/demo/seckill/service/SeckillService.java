@@ -17,7 +17,7 @@ import demo.seckill.exception.SeckillException;
 public interface SeckillService {
 
     /**
-     * 查询全部的秒杀记录
+     * 查询全部的秒杀记录一
      * @return
      */
     List<Seckill> getSeckillList();
